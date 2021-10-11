@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR33_OREL_PRAKT15_ZAD2(A)", "PR33_OREL_PRAKT15_ZAD2(A)\PR33_OREL_PRAKT15_ZAD2(A).csproj", "{25835AB4-B257-41E1-BC6F-71CC579726DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25835AB4-B257-41E1-BC6F-71CC579726DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25835AB4-B257-41E1-BC6F-71CC579726DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25835AB4-B257-41E1-BC6F-71CC579726DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25835AB4-B257-41E1-BC6F-71CC579726DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E69D3381-12C0-4694-A5EE-67E1B519BC33}
+	EndGlobalSection
+EndGlobal

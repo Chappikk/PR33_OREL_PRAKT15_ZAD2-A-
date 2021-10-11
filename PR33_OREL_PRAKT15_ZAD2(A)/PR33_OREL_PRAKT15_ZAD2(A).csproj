@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>PR33_OREL_PRAKT15_ZAD2_A_</RootNamespace>
+  </PropertyGroup>
+
+</Project>
